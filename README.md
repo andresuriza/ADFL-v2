@@ -6,4 +6,4 @@ Es un ataque y mejora al modelo de defensa ADFL del paper ADFL: Defending backdo
 
 ## Link de notebook Google Colab
 
-    https://colab.research.google.com/drive/18OvkJTQdnVHcBzLcQECrzQpyzDjs5FjN?usp=sharing
+https://colab.research.google.com/drive/18OvkJTQdnVHcBzLcQECrzQpyzDjs5FjN?usp=sharing
